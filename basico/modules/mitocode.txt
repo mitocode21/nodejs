@@ -1,0 +1,1 @@
+Información del cpu: [{"model":"Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz","speed":2591,"times":{"user":2878600,"nice":259800,"sys":2949700,"idle":28368900,"irq":0}},{"model":"Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz","speed":2591,"times":{"user":3225700,"nice":387400,"sys":2546100,"idle":28124500,"irq":0}}] 
