@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mitocode21/nodejs#readme",
   "dependencies": {
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "yargs": "^8.0.2"
   }
 }
