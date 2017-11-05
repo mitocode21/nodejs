@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  div.container
+      h1= mensaje
+
+      table.table.table-striped
+        for persona in personas
+            tr
+              td= persona.id
+              td
+                a(href='/persona/'+persona.id) #{persona.nombre}

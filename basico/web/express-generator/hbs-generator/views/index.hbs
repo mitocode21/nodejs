@@ -1,0 +1,12 @@
+<div class="container">
+      <h1>{{mensaje}}</h1>
+
+      <table class="table table-striped">
+        {{#each personas}}
+          <tr>
+            <td>{{this.id}}</td> 
+            <td><a href="/persona/{{this.id}}">{{this.nombre}}</a></td> 
+          </tr>          
+       {{/each}}   
+      </table>
+    </div>
